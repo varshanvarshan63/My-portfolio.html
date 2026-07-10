@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website built using **HTML** and **CSS** to showcase my skills, projects, and contact information.
 
-## 📖 About
+##  About
 
 This portfolio represents my journey as a developer and highlights my passion for:
 
