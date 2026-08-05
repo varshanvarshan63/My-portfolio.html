@@ -94,7 +94,7 @@ A responsive personal portfolio developed using HTML and CSS.
 https://github.com/varshanvarshan63
 
 **LinkedIn:**
-https://linkedin.com/in/varshan-k
+https://linkedin.com/in/Varshan k
 
 ---
 
